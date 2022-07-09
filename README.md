@@ -8,6 +8,7 @@
 
 - HTML
 - CSS
+- JavaScript
 
 ## Screenshot
 
@@ -22,6 +23,20 @@
 ## Links
 
 - Live Site: [https://virag-ky.github.io/Microverse-Portfolio/](https://virag-ky.github.io/Microverse-Portfolio/)
+
+## Getting Started
+
+### Prerequisites
+
+- web browser (e.g. Google Chrome, Firefox)
+- text editor (e.g. VSCode)
+- CLI/terminal
+
+### Clone this repository
+
+```
+git clone git@github.com:virag-ky/Microverse-Portfolio.git
+```
 
 ## Author
 
